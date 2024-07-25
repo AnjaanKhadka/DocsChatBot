@@ -36,4 +36,8 @@ I am using Streamlit to create interactive chatbot. Run the [main.py](https://gi
 
 Then the prompt opens as: 
 
+https://github.com/user-attachments/assets/33e52b83-2993-48ea-a998-423d17929238
+
+
+
 
