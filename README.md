@@ -1,3 +1,5 @@
+
+https://github.com/user-attachments/assets/309555f8-d580-4670-a817-8d4d459a2bd9
 # DocsChatBot
 
 A chatbot built using LangChain and Gemini that answers user queries from documents and includes a conversational form for collecting user information. Features date extraction and validation for user inputs.
@@ -50,8 +52,8 @@ https://github.com/user-attachments/assets/33e52b83-2993-48ea-a998-423d17929238
 
 ### Triggering the Booking system
 
-
+https://github.com/user-attachments/assets/7960fc39-8fb6-44a1-95c2-9b2aeb476757
 
 ### Collecting information
 
-
+https://github.com/user-attachments/assets/3f4a3edc-7472-42ef-85e1-92d726ef2984
