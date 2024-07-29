@@ -21,7 +21,8 @@ if prompt := st.chat_input("Ask a question"):
     
     st.session_state.messages.append({"role": "user", "content": prompt})
     
-    response = DocsChat.query(prompt)['result']
+    
+    response = DocsChat.query(prompt)
     
     with st.chat_message("assistant"):
         st.write(response)
